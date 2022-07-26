@@ -10,3 +10,7 @@ python -m pytest -v
 ```
 
 **NB**: Do not modify the content of any folder named `tests`, otherwise your local checking will not reflect the advanced tests that will be run when you will push your solutions.
+
+# Resources
+[Documentation format](https://numpydoc.readthedocs.io/en/latest/format.html)
+[Documenting python code](https://realpython.com/documenting-python-code/)
