@@ -2,6 +2,18 @@
 def solution(**kwargs):
     """Implement a ___ based on ___ argument.
     When ____, throw ____ exception."""
+    """__docstring__
+
+    Parameters
+    ----------
+    variable : type(variable)
+        Description of parameter `variable`.
+
+    Returns
+    -------
+    variable : type(variable)
+        Description of parameter `variable`, different possible value.
+    """
     #
     # @TODO: Implement it
     #
