@@ -1,2 +1,4 @@
+# Install requirements
+python -m pip install -qr requirements.txt
 # Run tests
 python -m pytest -v
