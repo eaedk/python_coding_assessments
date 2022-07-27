@@ -13,4 +13,4 @@ def test_solution_valid_inputs():
     for input in valid_inputs:
         outputs.append(solution(input).reset_index(drop=True).sort_values(by=["Name"]))
 
-    assert expected_outputs == expected_outputs
+    assert outputs == expected_outputs
