@@ -1,7 +1,5 @@
 # This function must contain your implementation of the solution
-def solution(**kwargs):
-    """Implement a ___ based on ___ argument.
-    When ____, throw ____ exception."""
+def solution(filepath, **kwargs):
     """__docstring__
 
     Parameters
