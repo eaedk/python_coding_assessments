@@ -1,6 +1,14 @@
 # Description
 This is the repository containing all the assessments you must take to show your python coding proficiency. Each folder contains an assessment, and you must read the `readme.md` to discover what is the assessment is about precisely and implement your solution in the `file.py` by only filling the functions left empty for that purpose.
 
+# Setup
+Install the required packages to be able to run the evaluation locally.
+
+```command
+python -m pip install -qr requirements.txt
+```
+
+
 # Evaluation
 This evaluation will be automatically grade, so please follow the instructions carefully. 
 
