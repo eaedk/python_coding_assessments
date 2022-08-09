@@ -15,4 +15,6 @@ python -m pytest -v
 ## Run a specific exercice
 python -m pytest -v exercise_name/tests
 
-eg: python -m pytest -v cinema_ticket_pricing/tests
+eg: python -m pytest -v file_owners/tests
+eg: python -m pytest -v palindrome/tests
+eg: python -m pytest -v pandas_data_cleaning/tests
