@@ -19,6 +19,9 @@ python -m pytest -v
 
 **NB**: Do not modify the content of any folder named `tests`, otherwise your local checking will not reflect the advanced tests that will be run when you will push your solutions.
 
+# MCQ Test
+Here is the link to access the MCQ test to take before to complete the whole assessment. This test is restricted to Azubi learners: [Click Here!](https://forms.office.com/r/ZHD623QXcs)
+
 # Resources
 1. [Documentation format](https://numpydoc.readthedocs.io/en/latest/format.html)
 1. [Documenting python code](https://realpython.com/documenting-python-code/)
