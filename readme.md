@@ -28,7 +28,7 @@ python -m pytest -v
 ```
 
 ```command
-python -m pytest -v exercise_name/tests
+python -m pytest -v <exercise_name>/tests
 ```
 
 **NB**: Do not modify the content of any folder named `tests`, otherwise your local checking will not reflect the advanced tests that will be run when you will push your solutions.
