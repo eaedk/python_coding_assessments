@@ -1,5 +1,5 @@
 # Assessment : File Owners
-
+![](https://www.technipages.com/wp-content/uploads/2019/12/File-Header.jpg)
 Implement the logic bellow in the `solution` function :
 
 Accepts a dictionary containing the file owner name for each file name.
