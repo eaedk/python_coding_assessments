@@ -1,5 +1,6 @@
 # Assessment : Cinema ticket pricing
-A cinema in Wakanda want you to make a pricing system to automatise the actual process.
+![](https://img.freepik.com/free-psd/cinema-entrance-tickets-mockup_1332-23492.jpg?w=2000)
+A cinema in Wakanda wants you to make a pricing system to automate the ticket billing.
 
 Find the price related information bellow:
 - Time : Day price = 100P ; Night price = 300P.
