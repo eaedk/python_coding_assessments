@@ -1,5 +1,5 @@
 # importation of the solution function to test
-from cinema_ticket_pricing.check_okoi import solution
+from cinema_ticket_pricing.file import solution
 
 
 # Adult tests
