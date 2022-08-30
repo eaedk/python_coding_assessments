@@ -6,7 +6,7 @@ from cinema_ticket_pricing.file import solution
 def test_solution_day_weekday_teenager():
     """This is the test for price in some conditions"""
     valid_inputs = dict(age_class=1, is_day=True, is_Wednesday=True, is_weekend=False)
-    expected_output = 70
+    expected_output = 100
 
     output = solution(**valid_inputs)
 
