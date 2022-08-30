@@ -2,3 +2,4 @@
 venv/
 check_*
 *true.py
+*.DS_Store
