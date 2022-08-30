@@ -1,4 +1,5 @@
 # Assessment : Palindrome
+![](https://uselessetymology.files.wordpress.com/2019/10/palindrome-useless-etymology-12.png?w=1088)
 A palindrome is a word, phrase, or sequence that reads the same backward as forward.
 
 Implement the function so that it must take one word or sequence and return `True` if the input is a palindrome, otherwise `False`.
